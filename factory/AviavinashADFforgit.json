@@ -1,0 +1,9 @@
+{
+	"name": "AviavinashADFforgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce99b563-bfca-451f-9d84-89c04e79fa7b",
+		"tenantId": "7c90e14b-3755-456f-9191-c9f221000945"
+	}
+}
